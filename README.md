@@ -1,8 +1,6 @@
 # turtle绘制螺旋结构
 
-利用递归思想，使用turtle模块绘制螺旋结构，结果如图：
-
-![spiral](/Users/wangqing/Desktop/研一上学期/计算机基础/turtle绘图作业/spiral.png)
+## 利用递归思想，使用turtle模块绘制螺旋结构
 
 * 递归螺旋：开始我是按下面这样画一圈一循环写的，但后来看示例，因为类似正方形，所以画笔每转一次一循环就可以了~作了修改
 
@@ -18,7 +16,7 @@
 
 
 
-参考资料：  
+## 参考资料：  
 
 * [Python的画图模块turtle命令](https://www.pythontab.com/html/2017/pythongui_1121/1185.html)
 
